@@ -38,7 +38,7 @@ const [showMap, setShowMap] = useState<boolean>(false);
 
 const fetchAddCountry = async (): Promise<Flag | undefined> => {
   try {
-  const res = await fetch("https://restcountries.com/v3.1/all?fields=name,flags,capital,timezones,altSpellings");
+  const res = await fetch(`${import.meta.env.VITE_GOOGLE_MAPS_API_KEY_2}`);
   const data = await res.json();                                                              
   setCountry(data);
   return data;
