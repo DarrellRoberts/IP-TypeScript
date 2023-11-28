@@ -7,7 +7,8 @@ I used TypeScript with mostly Tailwind CSS.
 See Below for screenshots:
 
 **Germany (Desktop)**
-![Germany](./src/assets/README/Germany.jpg)
+<!-- ![Germany](./src/assets/README/Germany.jpg) -->
+<img src="./src/assets/README/Germany.jpg" alt="Germany" width="400" height="300">
 
 **Australia (Mobile)**
 ![Australia](./src/assets/README/Australia.jpg)
