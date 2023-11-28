@@ -16,7 +16,10 @@ See Below for screenshots:
 
 
 **Singapore (Mobile)**
-![Singapore](./src/assets/README/Singapore.jpg)
+<!-- ![Singapore](./src/assets/README/Singapore.jpg) -->
+<img src="./src/assets/README/Singapore.jpg" alt="Singapore" width="300" height="400">
+
 
 **UK (Mobile)**
-![UK](./src/assets/README/UK.jpg)
+<!-- ![UK](./src/assets/README/UK.jpg) -->
+<img src="./src/assets/README/UK.jpg" alt="UK" width="300" height="400">
