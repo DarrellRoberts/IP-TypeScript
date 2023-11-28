@@ -10,6 +10,7 @@ See Below for screenshots:
 <!-- ![Germany](./src/assets/README/Germany.jpg) -->
 <img src="./src/assets/README/germany.jpg" alt="Germany" width="600" height="300">
 
+<div>
 **Australia (Mobile)**
 <!-- ![Australia](./src/assets/README/Australia.jpg) -->
 <img src="./src/assets/README/Australia.jpg" alt="Australia" width="300" height="400">
@@ -23,3 +24,4 @@ See Below for screenshots:
 **UK (Mobile)**
 <!-- ![UK](./src/assets/README/UK.jpg) -->
 <img src="./src/assets/README/UK.jpg" alt="UK" width="300" height="400">
+</div>
